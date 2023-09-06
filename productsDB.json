@@ -1,0 +1,140 @@
+{
+    "products" : [
+        {
+            "id": 1,
+            "img": "/images/s4.jpg",
+            "type": "Men Wear",
+            "name": "Men's Regular Fit",
+            "brand": "Adidas",
+            "size" : "S",
+            "price": "1200"
+        },
+        {
+            "id": 2,
+            "img": "/images/shirtm6.webp",
+            "type": "Men Wear",
+            "name": "Men's Regular Fit",
+            "brand": "Adidas",
+            "size" : "S",
+            "price": "1200"
+        },
+        {
+            "id": 3,
+            "img": "/images/shirtm7.avif",
+            "type": "Men Wear",
+            "name": "Men's Regular Fit",
+            "brand": "Levi's",
+            "size" : "M",
+            "price": "1600"
+        },
+        {
+            "id": 4,
+            "img": "/images/shirtm5.webp",
+            "type": "Men Wear",
+            "name": "Men's Regular Fit",
+            "brand": "Allen Solly",
+            "size" : "L",
+            "price": "1800"
+        },
+        {
+            "id": 5,
+            "img": "/images/shirtm5.webp",
+            "type": "Men Wear",
+            "name": "Men's Regular Fit",
+            "brand": "Allen Solly",
+            "size" : "M",
+            "price": "1500"
+        },
+        {
+            "id": 6,
+            "img": "/images/womenjeans.avif",
+            "type": "Women Wear",
+            "name": "jeans",
+            "brand": "Adidas",
+            "size" : "M",
+            "price": "1200"
+        },
+        {
+            "id": 7,
+            "img": "/images/womennightwear.jpg",
+            "type": "Women Wear",
+            "name": "Night Wear",
+            "brand": "Levi's",
+            "size" : "M",
+            "price": "1100"
+        },
+        {
+            "id": 8,
+            "img": "/images/womenpeasant.jpg",
+            "type": "Women Wear",
+            "name": "Peasant",
+            "brand": "Allen Solly",
+            "size" : "M",
+            "price": "1000"
+        },
+        {
+            "id": 9,
+            "img": "/images/womenballgown.jpg",
+            "type": "Women Wear",
+            "name": "Ball Gown",
+            "brand": "Levi's",
+            "size" : "M",
+            "price": "2000"
+        },
+        {
+            "id": 10,
+            "img": "/images/womenoneshoulder.webp",
+            "type": "Women Wear",
+            "name": "One Shoulder",
+            "brand": "Allen Solly",
+            "size" : "M",
+            "price": "1400"
+        },
+        {
+            "id": 11,
+            "img": "/images/childskirts.avif",
+            "type": "Children Wear",
+            "name": "Skirts",
+            "brand": "Allen Solly",
+            "size" : "M",
+            "price": "1550"
+        },
+        {
+            "id": 12,
+            "img": "/images/childdenim.jpg",
+            "type": "Children Wear",
+            "name": "Denims",
+            "brand": "Allen Solly",
+            "size" : "M",
+            "price": "1190"
+        },
+        {
+            "id": 13,
+            "img": "/images/childtshirt.jpg",
+            "type": "Children Wear",
+            "name": "Tshirts",
+            "brand": "Allen Solly",
+            "size" : "M",
+            "price": "1510"
+        },
+        {
+            "id": 14,
+            "img": "/images/childtjackets.avif",
+            "type": "Children Wear",
+            "name": "Jackets",
+            "brand": "Allen Solly",
+            "size" : "M",
+            "price": "1300"
+        },
+        {
+            "id": 15,
+            "img": "/images/childromper.jpeg",
+            "type": "Children Wear",
+            "name": "Rompers",
+            "brand": "Allen Solly",
+            "size" : "M",
+            "price": "1000"
+        }
+        
+    ]
+}
